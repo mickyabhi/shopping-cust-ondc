@@ -1,0 +1,8 @@
+{
+    "Version": 5,
+    "ElasticsearchWarning": true,
+    "StackMapping": {
+        "QuerycartsByUserIdResolver": "Cart",
+        "QuerycartsByStoreIdResolver": "Cart"
+    }
+}
